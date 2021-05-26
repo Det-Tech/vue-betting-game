@@ -1,0 +1,589 @@
+[{
+        "image": "grayDiceOne",
+        "x": 289,
+        "y": 547,
+        "w": 24,
+        "h": 24
+    },
+    {
+        "image": "grayDiceTwo",
+        "x": 415,
+        "y": 547,
+        "w": 24,
+        "h": 24
+    },
+    {
+        "image": "grayDiceThree",
+        "x": 542,
+        "y": 547,
+        "w": 24,
+        "h": 24
+    },
+    {
+        "image": "grayDiceFour",
+        "x": 668,
+        "y": 547,
+        "w": 24,
+        "h": 24
+    },
+    {
+        "image": "grayDiceFive",
+        "x": 794,
+        "y": 547,
+        "w": 24,
+        "h": 24
+    },
+    {
+        "image": "grayDiceSix",
+        "x": 921,
+        "y": 547,
+        "w": 24,
+        "h": 24
+    },
+    {
+        "image": "grayDiceOne",
+        "x": 247,
+        "y": 458,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceTwo",
+        "x": 247,
+        "y": 488,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceOne",
+        "x": 298,
+        "y": 458,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceThree",
+        "x": 298,
+        "y": 488,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceOne",
+        "x": 349,
+        "y": 458,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceFour",
+        "x": 349,
+        "y": 488,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceOne",
+        "x": 399,
+        "y": 458,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceFive",
+        "x": 399,
+        "y": 488,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceOne",
+        "x": 450,
+        "y": 458,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceSix",
+        "x": 450,
+        "y": 488,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceTwo",
+        "x": 501,
+        "y": 458,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceThree",
+        "x": 501,
+        "y": 488,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceTwo",
+        "x": 552,
+        "y": 458,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceFour",
+        "x": 552,
+        "y": 488,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceTwo",
+        "x": 602,
+        "y": 458,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceFive",
+        "x": 602,
+        "y": 488,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceTwo",
+        "x": 653,
+        "y": 458,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceSix",
+        "x": 653,
+        "y": 488,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceThree",
+        "x": 704,
+        "y": 458,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceFour",
+        "x": 704,
+        "y": 488,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceThree",
+        "x": 755,
+        "y": 458,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceFour",
+        "x": 755,
+        "y": 488,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceThree",
+        "x": 805,
+        "y": 458,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceFour",
+        "x": 805,
+        "y": 488,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceFour",
+        "x": 856,
+        "y": 458,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceFive",
+        "x": 856,
+        "y": 488,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceFour",
+        "x": 907,
+        "y": 458,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceSix",
+        "x": 907,
+        "y": 488,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceFive",
+        "x": 958,
+        "y": 458,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceSix",
+        "x": 958,
+        "y": 488,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceOne",
+        "x": 253,
+        "y": 307,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceOne",
+        "x": 253,
+        "y": 332,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceTwo",
+        "x": 315,
+        "y": 307,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceTwo",
+        "x": 315,
+        "y": 332,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceThree",
+        "x": 379,
+        "y": 307,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceThree",
+        "x": 379,
+        "y": 332,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceFour",
+        "x": 825,
+        "y": 307,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceFour",
+        "x": 825,
+        "y": 332,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceFive",
+        "x": 889,
+        "y": 307,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceFive",
+        "x": 889,
+        "y": 332,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceSix",
+        "x": 952,
+        "y": 307,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceSix",
+        "x": 952,
+        "y": 332,
+        "w": 22,
+        "h": 22
+    },
+    {
+        "image": "grayDiceOne",
+        "x": 447,
+        "y": 305,
+        "w": 15,
+        "h": 15
+    },
+    {
+        "image": "grayDiceOne",
+        "x": 447,
+        "y": 323,
+        "w": 15,
+        "h": 15
+    },
+    {
+        "image": "grayDiceOne",
+        "x": 447,
+        "y": 341,
+        "w": 15,
+        "h": 15
+    },
+    {
+        "image": "grayDiceTwo",
+        "x": 511,
+        "y": 305,
+        "w": 15,
+        "h": 15
+    },
+    {
+        "image": "grayDiceTwo",
+        "x": 511,
+        "y": 323,
+        "w": 15,
+        "h": 15
+    },
+    {
+        "image": "grayDiceTwo",
+        "x": 511,
+        "y": 341,
+        "w": 15,
+        "h": 15
+    },
+    {
+        "image": "grayDiceThree",
+        "x": 574,
+        "y": 305,
+        "w": 15,
+        "h": 15
+    },
+    {
+        "image": "grayDiceThree",
+        "x": 574,
+        "y": 323,
+        "w": 15,
+        "h": 15
+    },
+    {
+        "image": "grayDiceThree",
+        "x": 574,
+        "y": 341,
+        "w": 15,
+        "h": 15
+    },
+    {
+        "image": "grayDiceFour",
+        "x": 638,
+        "y": 305,
+        "w": 15,
+        "h": 15
+    },
+    {
+        "image": "grayDiceFour",
+        "x": 638,
+        "y": 323,
+        "w": 15,
+        "h": 15
+    },
+    {
+        "image": "grayDiceFour",
+        "x": 638,
+        "y": 341,
+        "w": 15,
+        "h": 15
+    },
+    {
+        "image": "grayDiceFive",
+        "x": 702,
+        "y": 305,
+        "w": 15,
+        "h": 15
+    },
+    {
+        "image": "grayDiceFive",
+        "x": 702,
+        "y": 323,
+        "w": 15,
+        "h": 15
+    },
+    {
+        "image": "grayDiceFive",
+        "x": 702,
+        "y": 341,
+        "w": 15,
+        "h": 15
+    },
+    {
+        "image": "grayDiceSix",
+        "x": 765,
+        "y": 305,
+        "w": 15,
+        "h": 15
+    },
+    {
+        "image": "grayDiceSix",
+        "x": 765,
+        "y": 323,
+        "w": 15,
+        "h": 15
+    },
+    {
+        "image": "grayDiceSix",
+        "x": 765,
+        "y": 341,
+        "w": 15,
+        "h": 15
+    },
+    {
+        "image": "grayDiceOne",
+        "x": 570,
+        "y": 230,
+        "w": 12,
+        "h": 12
+    },
+    {
+        "image": "grayDiceOne",
+        "x": 570,
+        "y": 245,
+        "w": 12,
+        "h": 12
+    },
+    {
+        "image": "grayDiceOne",
+        "x": 570,
+        "y": 260,
+        "w": 12,
+        "h": 12
+    },
+    {
+        "image": "grayDiceTwo",
+        "x": 585,
+        "y": 245,
+        "w": 12,
+        "h": 12
+    },
+    {
+        "image": "grayDiceTwo",
+        "x": 585,
+        "y": 230,
+        "w": 12,
+        "h": 12
+    },
+    {
+        "image": "grayDiceTwo",
+        "x": 585,
+        "y": 260,
+        "w": 12,
+        "h": 12
+    },
+    {
+        "image": "grayDiceThree",
+        "x": 600,
+        "y": 230,
+        "w": 12,
+        "h": 12
+    },
+    {
+        "image": "grayDiceThree",
+        "x": 600,
+        "y": 245,
+        "w": 12,
+        "h": 12
+    },
+    {
+        "image": "grayDiceThree",
+        "x": 600,
+        "y": 260,
+        "w": 12,
+        "h": 12
+    },
+    {
+        "image": "grayDiceFour",
+        "x": 615,
+        "y": 230,
+        "w": 12,
+        "h": 12
+    },
+    {
+        "image": "grayDiceFour",
+        "x": 615,
+        "y": 245,
+        "w": 12,
+        "h": 12
+    },
+    {
+        "image": "grayDiceFour",
+        "x": 615,
+        "y": 260,
+        "w": 12,
+        "h": 12
+    },
+    {
+        "image": "grayDiceFive",
+        "x": 630,
+        "y": 230,
+        "w": 12,
+        "h": 12
+    },
+    {
+        "image": "grayDiceFive",
+        "x": 630,
+        "y": 245,
+        "w": 12,
+        "h": 12
+    },
+    {
+        "image": "grayDiceFive",
+        "x": 630,
+        "y": 260,
+        "w": 12,
+        "h": 12
+    },
+    {
+        "image": "grayDiceSix",
+        "x": 645,
+        "y": 230,
+        "w": 12,
+        "h": 12
+    },
+    {
+        "image": "grayDiceSix",
+        "x": 645,
+        "y": 245,
+        "w": 12,
+        "h": 12
+    },
+    {
+        "image": "grayDiceSix",
+        "x": 645,
+        "y": 260,
+        "w": 12,
+        "h": 12
+    }
+]

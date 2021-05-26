@@ -1,0 +1,235 @@
+[{
+        "text": "Small",
+        "font": "bold 26px Roboto",
+        "x": 330,
+        "y": 255
+    },
+    {
+        "text": "1:2",
+        "font": "bold 12px Roboto",
+        "x": 330,
+        "y": 275
+    },
+    {
+        "text": "(4-10)",
+        "font": "12px Roboto",
+        "x": 385,
+        "y": 255
+    },
+    {
+        "text": "Odd",
+        "font": "bold 26px Roboto",
+        "x": 485,
+        "y": 255
+    },
+    {
+        "text": "1:2",
+        "font": "bold 12px Roboto",
+        "x": 485,
+        "y": 275
+    },
+    {
+        "text": "1:24",
+        "font": "bold 12px Roboto",
+        "x": 615,
+        "y": 283
+    },
+    {
+        "text": "Even",
+        "font": "bold 26px Roboto",
+        "x": 740,
+        "y": 255
+    },
+    {
+        "text": "1:2",
+        "font": "bold 12px Roboto",
+        "x": 740,
+        "y": 275
+    },
+    {
+        "text": "Big",
+        "font": "bold 26px Roboto",
+        "x": 875,
+        "y": 255
+    },
+    {
+        "text": "1:2",
+        "font": "bold 12px Roboto",
+        "x": 900,
+        "y": 275
+    },
+    {
+        "text": "(11-17)",
+        "font": "12px Roboto",
+        "x": 920,
+        "y": 255
+    },
+    {
+        "text": "4",
+        "font": "bold 30px Roboto",
+        "x": 259.5,
+        "y": 413
+    },
+    {
+        "text": "1:50",
+        "font": "bold 12px Roboto",
+        "x": 259.5,
+        "y": 428
+    },
+    {
+        "text": "5",
+        "font": "bold 30px Roboto",
+        "x": 313.87,
+        "y": 413
+    },
+    {
+        "text": "1:18",
+        "font": "bold 12px Roboto",
+        "x": 313.87,
+        "y": 428
+    },
+    {
+        "text": "6",
+        "font": "bold 30px Roboto",
+        "x": 368.24,
+        "y": 413
+    },
+    {
+        "text": "1:14",
+        "font": "bold 12px Roboto",
+        "x": 368.24,
+        "y": 428
+    },
+    {
+        "text": "7",
+        "font": "bold 30px Roboto",
+        "x": 422.61,
+        "y": 413
+    },
+    {
+        "text": "1:12",
+        "font": "bold 12px Roboto",
+        "x": 422.61,
+        "y": 428
+    },
+    {
+        "text": "8",
+        "font": "bold 30px Roboto",
+        "x": 476.98,
+        "y": 413
+    },
+    {
+        "text": "1:8",
+        "font": "bold 12px Roboto",
+        "x": 476.98,
+        "y": 428
+    },
+    {
+        "text": "9",
+        "font": "bold 30px Roboto",
+        "x": 531.35,
+        "y": 413
+    },
+    {
+        "text": "1:6",
+        "font": "bold 12px Roboto",
+        "x": 531.35,
+        "y": 428
+    },
+    {
+        "text": "10",
+        "font": "bold 30px Roboto",
+        "x": 585.72,
+        "y": 413
+    },
+    {
+        "text": "1:6",
+        "font": "bold 12px Roboto",
+        "x": 585.72,
+        "y": 428
+    },
+    {
+        "text": "11",
+        "font": "bold 30px Roboto",
+        "x": 640.09,
+        "y": 413
+    },
+    {
+        "text": "1:6",
+        "font": "bold 12px Roboto",
+        "x": 640.09,
+        "y": 428
+    },
+    {
+        "text": "12",
+        "font": "bold 30px Roboto",
+        "x": 694.46,
+        "y": 413
+    },
+    {
+        "text": "1:6",
+        "font": "bold 12px Roboto",
+        "x": 694.46,
+        "y": 428
+    },
+    {
+        "text": "13",
+        "font": "bold 30px Roboto",
+        "x": 748.83,
+        "y": 413
+    },
+    {
+        "text": "1:8",
+        "font": "bold 12px Roboto",
+        "x": 748.83,
+        "y": 428
+    },
+    {
+        "text": "14",
+        "font": "bold 30px Roboto",
+        "x": 803.2,
+        "y": 413
+    },
+    {
+        "text": "1:12",
+        "font": "bold 12px Roboto",
+        "x": 803.2,
+        "y": 428
+    },
+    {
+        "text": "15",
+        "font": "bold 30px Roboto",
+        "x": 857.57,
+        "y": 413
+    },
+    {
+        "text": "1:14",
+        "font": "bold 12px Roboto",
+        "x": 857.57,
+        "y": 428
+    },
+    {
+        "text": "16",
+        "font": "bold 30px Roboto",
+        "x": 911.94,
+        "y": 413
+    },
+    {
+        "text": "1:18",
+        "font": "bold 12px Roboto",
+        "x": 911.94,
+        "y": 428
+    },
+    {
+        "text": "17",
+        "font": "bold 30px Roboto",
+        "x": 966.31,
+        "y": 413
+    },
+    {
+        "text": "1:50",
+        "font": "bold 12px Roboto",
+        "x": 966.31,
+        "y": 428
+    }
+]
